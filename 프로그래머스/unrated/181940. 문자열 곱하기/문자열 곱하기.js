@@ -6,3 +6,6 @@ function solution(my_string, k) {
     const result = arr.join('');
     return result;
 }
+
+//다른사람의 좋은 코드 예시
+// return my_string.repeat(k)

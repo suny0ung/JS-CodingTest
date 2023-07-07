@@ -13,3 +13,5 @@ function solution(n) {
     
     return result;
 }
+
+//거듭 제곱 구하기 Math.pow()
